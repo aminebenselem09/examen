@@ -1,1 +1,1 @@
-branche_examen_d2 est la branche des fonctions
+la branche master est la branche de code source principale
